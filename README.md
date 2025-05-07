@@ -24,11 +24,3 @@ This is my personal portfolio website built with **React.js** and styled with **
 - **Version Control:** Git + GitHub
 
 ---
-
-## 📁 Folder Structure
-src/
-├── assets/ # Images & icons
-├── components/ # Reusable UI components
-├── pages/ # Page-level components
-├── App.jsx
-└── main.jsx
