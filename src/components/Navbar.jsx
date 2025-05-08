@@ -26,7 +26,7 @@ const Navbar = () => {
         </h1>
       </div>
       <ul
-        className={`menu flex items-center sm:gap-10 gap-4 md:static fixed left-1/2 -translate-x-1/2 md:-translate-x-0 md:opacity-100 md:top-0 bg-zinc-700 text-white backdrop-blur-md p-4 rounded-br-2xl rounded-bl-2xl md:bg-transparent transition-all md:transition-none z-50 duration-300${
+        className={`menu flex items-center sm:gap-10 gap-4 md:static fixed left-1/2 -translate-x-1/2 md:-translate-x-0 md:opacity-100 md:top-0 bg-zinc-700 text-white backdrop-blur-md p-4 rounded-br-2xl rounded-bl-2xl md:bg-transparent transition-all md:transition-none z-30 duration-300${
           active ? "top-20 opacity-100" : "-top-96 opacity-0"
         }`}
       >
